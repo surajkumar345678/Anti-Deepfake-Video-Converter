@@ -1,4 +1,4 @@
-## 🎥 Anti Deepfake Video Converter (Frontend)
+# 🎥 Anti Deepfake Video Converter (Frontend)
 
 A sleek **frontend-only** web application designed to simulate deepfake video detection and conversion. Built with **React** and **Tailwind CSS**, this project provides an interactive UI for users to explore how deepfake detection might work.
 
@@ -34,14 +34,17 @@ Check out the live demo **[here](https://antideepfakeconverter.netlify.app/)**
  
 ### 📸 Screenshots  
 #### Home Page  
-![Home Page](https://github.com/user-attachments/assets/homepage.png)  
+![Macbook-Air-1559x975](https://github.com/user-attachments/assets/6118f27d-8fc0-4fff-88c8-97e9231ce219)
 
-#### UI for Deepfake Detection  
-![Detection](https://github.com/user-attachments/assets/detection.png)  
+#### Video Convert Page
+![Macbook-Air-1559x975 (2)](https://github.com/user-attachments/assets/badac821-0273-4777-9387-a3aa496357de)
 
-#### Video Conversion UI  
-![Conversion](https://github.com/user-attachments/assets/conversion.png)  
+#### Video Processing & Uploading UI
+![Macbook-Air-1559x975 (4)](https://github.com/user-attachments/assets/4538a192-4302-410c-8608-aebf47f3ad17)
+![Macbook-Air-1559x975 (5)](https://github.com/user-attachments/assets/57b003d7-aa05-4017-b042-a4ea516ee79b)
 
+#### Video Download Page  
+![Macbook-Air-1559x975 (3)](https://github.com/user-attachments/assets/ffe04e20-35b7-4255-887f-b90bfbb2f407)
 
 ### ⚠️ Disclaimer  
 This project is **frontend-only** and does **not** include actual deepfake detection or video conversion functionality. It serves as a UI demonstration for potential integration with backend AI models or APIs.  
