@@ -106,7 +106,7 @@ export default function Convert() {
                 Drag and drop a video or{" "}
                 <span className="text-blue-600 underline">browse</span>
               </h2>
-              <p className="text-md text-gray-500">File size can be up to 1MB</p>
+              <p className="text-md text-gray-500">File size can be up to 10 MB</p>
             </>
           ) : (
             <div className="flex flex-col items-center justify-center h-full w-full">
