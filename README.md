@@ -16,7 +16,7 @@ A sleek **frontend-only** web application designed to simulate deepfake video de
 ### 🚀 Getting Started  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/anti-deepfake-video-converter.git  
+   git clone https://github.com/kumarsuraj345678/anti-deepfake-video-converter.git  
    cd anti-deepfake-video-converter  
    ```  
 2. **Install dependencies**  
